@@ -1,0 +1,11 @@
+.panel {
+	background: #fff;
+	border-bottom: 1px solid #ddd;
+	border-radius: 3px;
+	margin-bottom: 1rem;
+	padding: 1rem;
+}
+
+.panel .row {
+	margin: 0;
+}
