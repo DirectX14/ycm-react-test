@@ -6,6 +6,7 @@ const {version} = require('./package.json')
 
 
 //test 2
+//completly new comment
 module.exports = (env) => {
 	const isProd = env === 'production'
 
