@@ -4,6 +4,8 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const {version} = require('./package.json')
 
+
+//test 2
 module.exports = (env) => {
 	const isProd = env === 'production'
 
